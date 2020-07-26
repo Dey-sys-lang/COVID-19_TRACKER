@@ -5,7 +5,7 @@ get to see the updated and latest statistics for covid-19. We will get the world
 well as regional cover statistics. There is also real time search wherein we can search the country and states
 statistics which covers confirmed,active,recovered and deaths. It gives proper summary throughout the application.
 
-Features
+# Features
 1. Interactive UI
 2. Worldwide statistics
 3. Realtime search for regional and states cover statistics.
@@ -17,18 +17,9 @@ Features
 9. Self- Assessment to help users access themselves if they are infected or not.
 10. State-Wise Representation of the COVID cases in India.
 
+#Screenshot
+![analysis1](https://user-images.githubusercontent.com/62640723/88476949-d58c4480-cf59-11ea-8156-3bfc217966b4.JPG)
 
 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
