@@ -17,12 +17,12 @@ statistics which covers confirmed,active,recovered and deaths. It gives proper s
 9. Self- Assessment to help users access themselves if they are infected or not.
 10. State-Wise Representation of the COVID cases in India.
 
-#Screenshot
+# Screenshot
 
 
-![analysis1](https://user-images.githubusercontent.com/62640723/88476949-d58c4480-cf59-11ea-8156-3bfc217966b4.JPG)
+![analysis1](https://user-images.githubusercontent.com/62640723/88476949-d58c4480-cf59-11ea-8156-3bfc217966b4.JPG) ![analysis2](https://user-images.githubusercontent.com/62640723/88476992-0a989700-cf5a-11ea-81ae-02510a6b9ae1.JPG)
 
-![analysis2](https://user-images.githubusercontent.com/62640723/88476992-0a989700-cf5a-11ea-81ae-02510a6b9ae1.JPG)
+
 
 ![countrywise](https://user-images.githubusercontent.com/62640723/88476997-1a17e000-cf5a-11ea-99f0-6d263d3f058a.jpeg)
 
